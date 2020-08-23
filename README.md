@@ -8,4 +8,4 @@ HTML , CSS and javascript
 
 ## Demo 
 
-![Dark Mode Toggle (demo/DarkModeToggle.gif)
+![Dark Mode Toggle] (demo/DarkModeToggle.gif)
