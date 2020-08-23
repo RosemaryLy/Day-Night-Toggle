@@ -21,6 +21,7 @@ body {
       background-color: #111; /* Black */
       overflow-x: hidden; /* Disable horizontal scroll */
       padding-top: 20px;
+      
   }
   
   /* The navigation menu links */
@@ -50,10 +51,18 @@ body {
   }
   
   /* The switch - the box around the slider */
+  .anchorbottom{
+    position: fixed;
+    bottom: 50px;
+    left: 25px;
+  }
   .switch {
     position: relative;
+    display: inline-block;
     width: 70px;
     height: 35px;
+    
+    
   }
   
   /* Hide default HTML checkbox */
